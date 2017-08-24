@@ -10,6 +10,7 @@
   "author": "Sarath",
   "license": "ISC",
   "dependencies": {
-    "imap": "^0.8.19"
+    "imap": "^0.8.19",
+    "mailparser": "^2.0.5"
   }
 }
